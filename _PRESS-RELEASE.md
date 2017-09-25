@@ -1,4 +1,4 @@
-# Project Name #
+# Animal Adoption #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,22 +17,22 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > This website is for people who want to adopt a pet or for people who found a pet and can not keep it so they are looking for someone to adopt the pet.
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > If you are looking for a pet to adopt, this is the right place for you.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > This website is for providing a shelter for pets that do not have one also for helping people who are looking for a pet to have one without paying any money. All you have to do is to enter the website and look for the pet you want to adopt and contact the person who have the pet. 
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > A lot of people have a problem that they are looking for a pet to have without paying money, also a lot of people have a problem that they have a pet and they want someone to a dopt because of personal circumstances.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > The solution for these problems is our website, which you can access and post your pet so someone can adopt or look for a pet to adopt.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  >You won't change the world by saving an animal, But you will change that animal world.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
