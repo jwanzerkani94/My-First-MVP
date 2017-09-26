@@ -1,0 +1,32 @@
+{
+  "name": "my-first-mvp",
+  "version": "1.0.0",
+  "description": "animal adoption website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwanzerkani94/My-First-MVP.git"
+  },
+  "author": "jwan zerkani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwanzerkani94/My-First-MVP/issues"
+  },
+  "homepage": "https://github.com/jwanzerkani94/My-First-MVP#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0-beta",
+    "bower": "^1.8.2",
+    "express": "^4.15.5",
+    "jquery": "^3.2.1",
+    "live-server": "^1.2.0",
+    "mongoose": "^4.11.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
